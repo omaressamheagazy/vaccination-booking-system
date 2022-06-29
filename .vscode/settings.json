@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "remotemysql.com",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "firstConnection",
+            "database": "ofsj3dwiCu",
+            "username": "ofsj3dwiCu"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Omar essam\\Desktop\\mysql-connector-java-8.0.29.jar",
+        "d:\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar"
+    ]
+}
